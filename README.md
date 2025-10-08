@@ -12,6 +12,8 @@
 ═════❖ GitHub Stats ❖═════
 
 ![Tanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanya290&show_icons=true&theme=dark)  
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya290&layout=compact&theme=dark)
 
 ═════❖ Fun Facts ❖═════
