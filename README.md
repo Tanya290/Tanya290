@@ -1,16 +1,26 @@
-## Hi there 👋
+─────⋆⋅☆⋅⋆────୨ৎ────Hi, I'm Tanya!────୨ৎ────⋆⋅☆⋅⋆─────
 
-<!--
-**Tanya290/Tanya290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ AI & Data Enthusiast | Building smart apps & visualizations | CSE Student | ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 
-Here are some ideas to get you started:
+═════❖꩜ Skills & Tools ꩜❖═════
+╭────────────────────────────╮
+│ **Languages:** Python, C++, Java, SQL │
+│ **Data & AI:** Pandas, NumPy, Matplotlib, Altair, Big Data, Generative AI │
+│ **Web & Apps:** Streamlit, HTML, CSS, Excel Automation │
+│ **Other:** Git, GitHub, Agile, UI/UX Design │
+╰────────────────────────────╯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+═════❖ GitHub Stats ❖═════
+╭────────────────────────────╮
+│ ![Tanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanya290&show_icons=true&theme=dark) │
+│ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya290&layout=compact&theme=dark) │
+╰────────────────────────────╯
+
+═════❖ Fun Facts ❖═════
+╭────────────────────────────╮
+│ ✦ I love turning data into beautiful visualizations │
+│ ✦ Enjoy making apps with stylish dark themes │
+│ ✦ Always curious about the intersection of AI & psychology │
+╰────────────────────────────╯
+
+─────⋆⋅☆⋅⋆──── ʚ₍ᐢ.  ̫.ᐢ₎ɞ ───⋆⋅☆⋅⋆────
