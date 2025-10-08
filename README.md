@@ -20,6 +20,6 @@
 
 - ✦ I love turning data into beautiful visualizations  
 - ✦ Enjoy making apps with stylish dark themes  
-- ✦ Always curious about the intersection of AI & psychology
+- ✦ Always curious about the intersection of AI & ML
 
 ─────⋆⋅☆⋅⋆──── ʚ₍ᐢ. ̫.ᐢ₎ɞ ───⋆⋅☆⋅⋆────
