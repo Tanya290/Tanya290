@@ -94,7 +94,5 @@
 - ✦ Enjoy making apps with stylish dark themes  
 - ✦ Always curious about the intersection of AI
 
-![snake gif](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
-
 
 ─────⋆⋅☆⋅⋆──── ʚ₍ᐢ. ̫.ᐢ₎ɞ ───⋆⋅☆⋅⋆────
