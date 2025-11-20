@@ -2,46 +2,6 @@
 
 ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ AI & Data Enthusiast | Building smart apps & visualizations | CSE Student | ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 
-<svg width="100%" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="starGrad" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ffeaf4" />
-      <stop offset="100%" stop-color="#ffbdd4" stop-opacity="0" />
-    </radialGradient>
-  </defs>
-
-  <!-- Star 1 -->
-  <circle cx="40" cy="140" r="4" fill="url(#starGrad)">
-    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="140;130;140" dur="4s" repeatCount="indefinite" />
-  </circle>
-
-  <!-- Star 2 -->
-  <circle cx="120" cy="60" r="3" fill="url(#starGrad)">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite" />
-    <animate attributeName="cx" values="120;130;120" dur="4s" repeatCount="indefinite" />
-  </circle>
-
-  <!-- Star 3 -->
-  <circle cx="220" cy="100" r="5" fill="url(#starGrad)">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="100;90;100" dur="5s" repeatCount="indefinite" />
-  </circle>
-
-  <!-- Star 4 -->
-  <circle cx="280" cy="40" r="2.5" fill="url(#starGrad)">
-    <animate attributeName="opacity" values="1;0;1" dur="1.8s" repeatCount="indefinite" />
-    <animate attributeName="cx" values="280;275;280" dur="3.5s" repeatCount="indefinite" />
-  </circle>
-
-  <!-- Star 5 -->
-  <circle cx="160" cy="160" r="3.5" fill="url(#starGrad)">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.8s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="160;150;160" dur="4.2s" repeatCount="indefinite" />
-  </circle>
-</svg>
-
-
 
 ╭═══════════════════════════╮
              ꩜ Skills & Tools ꩜
@@ -69,8 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI_UX-F2B705?style=for-the-badge)
-**Tools:**  
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=4CC9F0)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05133)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visual-studio-code&logoColor=3EA6FF)
@@ -82,6 +40,8 @@
 ╰═══════════════════════════╯
 
 ![Tanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanya290&show_icons=true&theme=dark)  
+
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya290&layout=compact&theme=dark)
