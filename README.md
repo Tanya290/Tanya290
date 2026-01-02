@@ -54,7 +54,6 @@ Building intelligent apps, ML models & clean data visualizations
 <p align="center">
   <img
     src=<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/21527162-9557-4f5c-bf4d-369f01128870" />
-
     width="110"
     alt="retro computer"
   />
