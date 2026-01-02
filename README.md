@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tanya 👋</h1>
+<h1 align="center">Hi, I'm Tanya ִ ࣪𖤐.ᐟh1>
 
 <p align="center">
   <img
@@ -19,27 +19,27 @@ Building intelligent apps, ML models & clean data visualizations
 </p>
 
 
-## 🧠 Skills & Tools
+## ʚɞ Skills & Tools
 
-### 🧩 Programming Languages
+### ʚɞ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Data, ML & AI
+### ʚɞ Data, ML & AI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Altair](https://img.shields.io/badge/Altair-FF5B5B?style=for-the-badge)
 
-### 🌐 Web & App Development
+### ʚɞ Web & App Development
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🛠 Tools, Dev & Design
+### ʚɞ Tools, Dev & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visual-studio-code&logoColor=3EA6FF)
@@ -49,7 +49,7 @@ Building intelligent apps, ML models & clean data visualizations
 
 ---
 
-## 🚀 What I Work On
+## ʚɞ What I Work On
 - AI & ML projects with real-world datasets  
 - Data analysis, EDA & visualization dashboards  
 - Streamlit-based interactive apps  
@@ -58,7 +58,7 @@ Building intelligent apps, ML models & clean data visualizations
 
 ---
 
-## ✨ Fun Facts (Yes, They Stay)
+## ʚɞ Fun Facts (Yes, They Stay)
 - ✦ I enjoy turning messy data into meaningful visuals  
 - ✦ I care a lot about UI aesthetics, especially dark themes  
 - ✦ I like explaining technical things in simple ways  
