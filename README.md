@@ -1,7 +1,13 @@
 <h1 align="center">Hi, I'm Tanya 👋</h1>
 
-<img width="733" height="245" alt="image" src="https://github.com/user-attachments/assets/4ffef000-c1d1-4823-afb6-7f1243cf444f" />
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/4ffef000-c1d1-4823-afb6-7f1243cf444f"
+    width="733"
+    height="245"
+    alt="header image"
+  />
+</p>
 
 <p align="center">
 AI & Data Enthusiast • CSE (AI & Data) Student <br/>
