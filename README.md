@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tanya 👋</h1>
 
-<img src=<img width="733" height="245" alt="image" src="https://github.com/user-attachments/assets/559e0cbd-419a-4fd4-b17a-b81f104c59f1" />
+<img width="733" height="245" alt="image" src="https://github.com/user-attachments/assets/4ffef000-c1d1-4823-afb6-7f1243cf444f" />
 
 
 <p align="center">
