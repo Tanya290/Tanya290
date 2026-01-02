@@ -51,7 +51,15 @@ Building intelligent apps, ML models & clean data visualizations
 
 ## ʚɞ What I Work On
 
-<img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/5fb98fb3-c215-46cc-9459-023afc9b33eb" />
+<p align="center">
+  <img
+    src=<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/21527162-9557-4f5c-bf4d-369f01128870" />
+
+    width="110"
+    alt="retro computer"
+  />
+</p>
+
 
 - AI & ML projects with real-world datasets  
 - Data analysis, EDA & visualization dashboards  
