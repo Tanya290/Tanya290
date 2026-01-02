@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Tanya 👋</h1>
 
+<img src=<img width="733" height="245" alt="image" src="https://github.com/user-attachments/assets/559e0cbd-419a-4fd4-b17a-b81f104c59f1" />
+
+
 <p align="center">
 AI & Data Enthusiast • CSE (AI & Data) Student <br/>
 Building intelligent apps, ML models & clean data visualizations
@@ -9,25 +12,6 @@ Building intelligent apps, ML models & clean data visualizations
 ⋆｡ﾟ☁︎｡⋆ Curious about AI × Data × Design ⋆｡ﾟ☁︎｡⋆
 </p>
 
----
-
-## 📊 GitHub Metrics (Live Dashboard)
-
-![Metrics](https://metrics.lecoq.io/Tanya290?template=classic&theme=dark&config.timezone=Asia/Kolkata)
-
----
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanya290&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya290&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
 
 ## 🧠 Skills & Tools
 
