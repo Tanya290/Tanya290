@@ -70,7 +70,18 @@ Building intelligent apps, ML models & clean data visualizations
 
 ---
 
-## ʚɞ Fun Facts (Yes, They Stay)
+## ʚɞ Fun Facts
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/1fbbb70c-db5e-43ad-b1f2-723a96f3df99"
+    width="649"
+    height="240"
+    alt="fun facts banner"
+  />
+</p>
+
+
 - ✦ I enjoy turning messy data into meaningful visuals  
 - ✦ I care a lot about UI aesthetics, especially dark themes  
 - ✦ I like explaining technical things in simple ways  
