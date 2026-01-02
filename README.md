@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tanya ִ ࣪𖤐.ᐟh1>
+<h1 align="center">Hi, I'm Tanya ִ ࣪𖤐.ᐟ h1>
 
 <p align="center">
   <img
