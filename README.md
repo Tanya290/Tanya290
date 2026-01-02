@@ -50,6 +50,16 @@ Building intelligent apps, ML models & clean data visualizations
 ---
 
 ## ʚɞ What I Work On
+
+<p align="center">
+  <img
+    src="<img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/136df160-6f8b-4016-b85d-c4eeb0f7cd9b" />
+    width="120"
+    alt="retro computer"
+  />
+</p>
+
+
 - AI & ML projects with real-world datasets  
 - Data analysis, EDA & visualization dashboards  
 - Streamlit-based interactive apps  
