@@ -24,18 +24,23 @@ Building intelligent apps, ML models & clean data visualizations
 ### ʚɞ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ʚɞ Data, ML & AI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Altair](https://img.shields.io/badge/Altair-FF5B5B?style=for-the-badge)
 
 ### ʚɞ Web & App Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### ʚɞ Tools, Dev & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,7 +48,11 @@ Building intelligent apps, ML models & clean data visualizations
 ![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visual-studio-code&logoColor=3EA6FF)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0A0A0A?style=for-the-badge&logo=jupyter&logoColor=F37726)
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=A259FF)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-F2B705?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### ʚɞ Cloud & Platforms
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ---
 
