@@ -11,13 +11,13 @@
 
 <p align="center">
 AI & Data Enthusiast • CSE (AI & Data) Student <br/>
+Ex-Data Analyst Intern @ Race Ahead IT Pvt Ltd <br/>
 Building intelligent apps, ML models & clean data visualizations
 </p>
 
 <p align="center">
 ⋆｡ﾟ☁︎｡⋆ Curious about AI × Data × Design ⋆｡ﾟ☁︎｡⋆
 </p>
-
 
 ## ʚɞ Skills & Tools
 
