@@ -1,109 +1,185 @@
-<h1 align="center">Hi, I'm Tanya 🌙</h1>
+ <div align="center">
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/4ffef000-c1d1-4823-afb6-7f1243cf444f"
-    width="733"
-    height="245"
-    alt="header image"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=700&size=38&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Applied+AI+%7C+Machine+Learning;Data+Engineering+%7C+GenAI" alt="Typing SVG" />
 
-<p align="center">
-AI & Data Enthusiast • CSE (AI & Data) Student <br/>
-Ex-Data Analyst Intern @ Race Ahead IT Pvt Ltd <br/>
-Building intelligent apps, ML models & clean data visualizations
-</p>
+### Tanya Nair
+**B.Tech CSE (AI & Data Engineering) @ Lovely Professional University**
 
-<p align="center">
-⋆｡ﾟ☁︎｡⋆ Curious about AI × Data × Design ⋆｡ﾟ☁︎｡⋆
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Tanya290-181717?style=for-the-badge&logo=github)](https://github.com/Tanya290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tany_payyadakkath)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanyanair29@gmail.com)
 
-## ʚɞ Skills & Tools
+<img src="https://komarev.com/ghpvc/?username=Tanya290&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 
-### ʚɞ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ʚɞ Databases
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ʚɞ Data, ML & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Altair](https://img.shields.io/badge/Altair-FF5B5B?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### ʚɞ Web & App Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ʚɞ Tools, Dev & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visual-studio-code&logoColor=3EA6FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-0A0A0A?style=for-the-badge&logo=jupyter&logoColor=F37726)
-![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=A259FF)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
-### ʚɞ Cloud & Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
----
-
-## ʚɞ What I Work On
-
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/21527162-9557-4f5c-bf4d-369f01128870"
-    width="733"
-    height="245"
-    alt="retro computer"
-  />
-</p>
-
-
-
-- AI & ML projects with real-world datasets  
-- Data analysis, EDA & visualization dashboards  
-- Streamlit-based interactive apps  
-- Clean UI design with dark themes  
-- Cloud & pipeline-based AI workflows (Azure)
+</div>
 
 ---
 
-## ʚɞ Fun Facts
+## 👩🏻‍💻 About Me
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/1fbbb70c-db5e-43ad-b1f2-723a96f3df99"
-    width="649"
-    height="240"
-    alt="fun facts banner"
-  />
-</p>
+I'm Tanya, a Computer Science and Engineering student specialising in **Artificial Intelligence & Data Engineering**, interested in building practical machine-learning systems, intelligent applications, and data-driven solutions.
 
+My experience spans Python-based data processing, exploratory data analysis, model development, API workflows, analytics dashboards, and document-based AI applications.
 
-- ✦ I enjoy turning messy data into meaningful visuals  
-- ✦ I care a lot about UI aesthetics, especially dark themes  
-- ✦ I like explaining technical things in simple ways  
-- ✦ Always curious about how AI meets design & usability  
+- 🤖 Interested in **Machine Learning, Applied AI, and Generative AI**.
+- 🐍 Working with Python, NumPy, Pandas, and Scikit-learn.
+- 🧠 Exploring computer vision, NLP, and retrieval-augmented generation.
+- ☁️ Learning to build and understand cloud-based AI and data workflows.
+- 🚦 Developing FusionDrive AI, a conceptual automotive road-hazard detection project.
+- 📊 Practising SQL, data analysis, model evaluation, and interview problem-solving.
+
+**Current goal:** grow into an AI/ML engineer who can take a problem from data preparation and modelling through evaluation and deployment.
 
 ---
 
-<p align="center">
-─────⋆⋅☆⋅⋆──── ʚ₍ᐢ. ̫.ᐢ₎ɞ ────⋆⋅☆⋅⋆────
-</p>
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Data Science</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>AI / ML / NLP</b></td>
+<td>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td><b>LLM & APIs</b></td>
+<td>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Cloud & Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+### AI Engineer Intern — Racing Ahead IT Pvt Ltd
+*June 2026 – August 2026*
+
+- Worked on data preprocessing and exploratory data analysis using Python, Pandas, and NumPy.
+- Contributed to KPI and exception-detection logic for workforce analytics.
+- Worked with FastAPI, React, SQLAlchemy, and SQLite.
+- Built analytics dashboards for workforce utilisation and operational monitoring.
+- Maintained documented code and version-controlled work using Git and GitHub.
+
+### Data Analyst Intern — Racing Ahead IT Pvt Ltd
+*June 2025 – August 2025*
+
+- Processed and validated structured datasets using Python and Pandas.
+- Conducted exploratory data analysis and designed functional test cases.
+- Developed Power BI dashboards for schedules, statistics, and reporting.
+
+### Automotive AI Innovation Internship — YuvaIntern
+*2026*
+
+- Prepared a strategic roadmap and feasibility study for FusionDrive AI.
+- Documented a proposed multimodal sensor-fusion architecture.
+- Developed a conceptual risk-assessment and evaluation framework.
+- Prepared a simulation and testing strategy.
+- Evaluated automotive AI applications, benefits, limitations, and future trends.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Overview | Technologies |
+|---|---|---|
+| [**FusionDrive AI**](https://github.com/Tanya290/FusionDrive-AI) | Conceptual automotive AI system exploring sensor fusion, road-hazard detection, and collision-risk assessment. | Python · Computer Vision · AI/ML |
+| **Traffic Scene Understanding with NLP Alert System** | Traffic-scene analysis combining computer vision and NLP to generate data-driven alerts. | PyTorch · TensorFlow · BERT · spaCy · FastAPI |
+| **TechWave — Layoff Contagion Radar** | Predictive analytics project exploring layoff-risk patterns and model explainability. | Pandas · XGBoost · SHAP · Streamlit |
+| **Retrieval-Augmented Generation Application** | Document-based question-answering application using semantic retrieval and an LLM API. | Python · Embeddings · OpenAI API · NLP |
+| **PromptShield AI** | Project exploring prompt safety and protection against problematic AI inputs. | AI Safety · Prompt Engineering |
+| **OLA Clone** | Application developed through hands-on project-based training. | Application Development |
+
+*Project links should be added as the corresponding repositories are confirmed. Descriptions reflect project goals and documented work, not necessarily production deployment.*
+
+---
+
+## 🏅 Certifications
+
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Master Generative AI & Generative AI Tools — Udemy
+- AI Fluency Framework & Foundations — Anthropic
+- AI Foundations — OpenAI
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanya290&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=BF91F3&text_color=c9d1d9" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya290&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Python problem-solving and coding interview patterns
+- NumPy and Pandas for AI/ML workflows
+- SQL, joins, CTEs, and window functions
+- Machine-learning evaluation and model development
+- Git, Docker, and reproducible project workflows
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 Email: [tanyanair29@gmail.com](mailto:tanyanair29@gmail.com)
+- 💼 LinkedIn: [tany_payyadakkath](https://www.linkedin.com/in/tany_payyadakkath)
+- 🐙 GitHub: [Tanya290](https://github.com/Tanya290)
+
+<div align="center">
+
+*Learning by building. Growing through experimentation. Working toward better AI systems.* 💙
+
+</div>
