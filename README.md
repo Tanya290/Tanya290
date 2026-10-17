@@ -126,7 +126,7 @@ I enjoy exploring how machine learning, computer vision, NLP, and data engineeri
 ## 💼 Experience
 
 ### AI Engineer Intern — Racing Ahead IT Pvt Ltd
-*June 2026 – August 2026*
+*2026*
 
 - Performed data preprocessing and exploratory analysis on business datasets using Python, Pandas, and NumPy.
 - Contributed to KPI and exception-detection logic for workforce analytics.
@@ -134,12 +134,6 @@ I enjoy exploring how machine learning, computer vision, NLP, and data engineeri
 - Developed analytics dashboards for workforce utilisation and operational monitoring.
 - Maintained documented code and version-controlled work using Git and GitHub.
 
-### Data Analyst Intern — Racing Ahead IT Pvt Ltd
-*June 2025 – August 2025*
-
-- Preprocessed and validated structured datasets using Python and Pandas.
-- Conducted exploratory data analysis and designed functional test cases.
-- Developed Power BI dashboards for reporting and data visualisation.
 
 ### Automotive AI Innovation Internship — YuvaIntern
 *2026*
@@ -149,6 +143,24 @@ I enjoy exploring how machine learning, computer vision, NLP, and data engineeri
 - Developed a conceptual risk-assessment and evaluation framework.
 - Prepared a simulation and testing strategy.
 - Evaluated AI applications across automotive safety, maintenance, and autonomous-driving research.
+  ### Data Analyst Intern — Racing Ahead IT Pvt Ltd
+*2025*
+
+- Preprocessed and validated structured datasets using Python and Pandas.
+- Conducted exploratory data analysis and designed functional test cases.
+- Developed Power BI dashboards for reporting and data visualisation.
+
+### Futurense Technologies — Project-Based Learning
+*2024*
+
+*AI/ML & Data Engineering Training*
+
+- Developed an **OLA clone application** as part of hands-on project-based learning.
+- Worked on SQL and relational database projects, including database design, schema creation, and ER diagrams.
+- Practised data modelling, database normalisation, and SQL query development through practical exercises.
+- Strengthened foundational skills in Python, data handling, and application development through project work.
+
+**Focus areas:** Python · SQL · Database Design · Data Modelling · Application Development
 
 ---
 
