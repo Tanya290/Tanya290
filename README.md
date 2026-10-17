@@ -123,7 +123,7 @@ I enjoy exploring how machine learning, computer vision, NLP, and data engineeri
 ## 💼 Experience
 
 ### AI Engineer Intern — Racing Ahead IT Pvt Ltd
-*June 2026 – August 2026*
+*2026*
 
 - Performed data preprocessing and exploratory analysis on business datasets using Python, Pandas, and NumPy.
 - Contributed to KPI and exception-detection logic for workforce analytics.
@@ -131,12 +131,6 @@ I enjoy exploring how machine learning, computer vision, NLP, and data engineeri
 - Developed analytics dashboards for workforce utilisation and operational monitoring.
 - Maintained documented code and version-controlled work using Git and GitHub.
 
-### Data Analyst Intern — Racing Ahead IT Pvt Ltd
-*June 2025 – August 2025*
-
-- Preprocessed and validated structured datasets using Python and Pandas.
-- Conducted exploratory data analysis and designed functional test cases.
-- Developed Power BI dashboards for reporting and data visualisation.
 
 ### Automotive AI Innovation Internship — YuvaIntern
 *2026*
@@ -146,6 +140,20 @@ I enjoy exploring how machine learning, computer vision, NLP, and data engineeri
 - Developed a conceptual risk-assessment and evaluation framework.
 - Prepared a simulation and testing strategy.
 - Evaluated AI applications across automotive safety, maintenance, and autonomous-driving research.
+
+### Data Analyst Intern — Racing Ahead IT Pvt Ltd
+*2025*
+
+- Preprocessed and validated structured datasets using Python and Pandas.
+- Conducted exploratory data analysis and designed functional test cases.
+- Developed Power BI dashboards for reporting and data visualisation.
+
+### Project-Based Learning - Futurense Technologies
+
+**2024**
+- Collaborated on building an **OLA Clone ride-hailing application** as part of a hands-on team project.
+- Explored core ride-hailing features, including ride matching, GPS tracking, and user-friendly application design.
+- Gained practical experience in application development, team collaboration, and translating requirements into functional features.
 
 ---
 
