@@ -9,8 +9,6 @@ AI/ML Engineer · Intelligent Systems · Applied Machine Learning
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanyanair29@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tanya290-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanya290)
 
-<img src="https://komarev.com/ghpvc/?username=Tanya290&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-
 </div>
 
 ---
@@ -25,7 +23,6 @@ I enjoy exploring how machine learning, computer vision, NLP, and data engineeri
 - 🧠 Building projects involving computer vision, NLP, and retrieval-augmented generation.
 - 📊 Working with data processing, exploratory analysis, and predictive modelling.
 - ☁️ Exploring cloud-based AI workflows and API-driven applications.
-- 🚦 Developing **FusionDrive AI**, a conceptual automotive road-hazard detection project.
 - 🎯 Focused on strengthening my Python, SQL, and AI/ML engineering skills.
 
 ---
@@ -34,7 +31,7 @@ I enjoy exploring how machine learning, computer vision, NLP, and data engineeri
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=2500&pause=800&color=BF91F3&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Predictive+Analytics;Computer+Vision+%26+NLP;Retrieval-Augmented+Generation;Model+Evaluation+%26+Interpretability" alt="AI and ML areas of focus" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Predictive+Analytics;Computer+Vision+%26+NLP;Retrieval-Augmented+Generation;Model+Evaluation+%26+Interpretability" alt="AI and ML areas of focus" />
 
 </div>
 
