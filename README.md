@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=700&size=38&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Machine+Learning+%26+Applied+AI;Data+Engineering+%7C+Generative+AI" alt="Animated AI/ML heading" />
+<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=700&size=38&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Building+Intelligent+Systems;Machine+Learning+%7C+Computer+Vision;Applied+AI+%7C+Generative+AI" alt="Animated AI/ML heading" />
 
 ### Tanya Nair
 AI/ML Engineer · Intelligent Systems · Applied Machine Learning
